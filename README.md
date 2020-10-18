@@ -1,0 +1,2 @@
+# chromejaro
+Manjaro, for chromebook.
